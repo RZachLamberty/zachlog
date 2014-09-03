@@ -1,3 +1,7 @@
+*.log
+*.pyc
+*.csv
+
 build/
 dist/
 zachlog.egg-info/
